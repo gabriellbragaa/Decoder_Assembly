@@ -2,9 +2,9 @@
 
 ## decoder_arm_assembly
 
-### Este trabalho consiste em implementar um programa (em qualquer linguagem de programação) que decodifique um mapa de memória em seu respectivo código Thumb.
-#### 1. O decodificador deverá receber como entrada um mapa de memória e retornar um arquivo de texto contendo o código a ser executado. A saída ira ser gerado além da decodificação resultante em hexadecimal, 
-#### os valores da converção dos valores em hexadecimal para binário, mostrando também  os bits mais significativos e os menos sigficativos.
+ Este trabalho consiste em implementar um programa (em qualquer linguagem de programação) que decodifique um mapa de memória em seu respectivo código Thumb.
+ 1. O decodificador deverá receber como entrada um mapa de memória e retornar um arquivo de texto contendo o código a ser executado.
+ 2.  A saída ira ser gerado além da decodificação resultante em hexadecimal, os valores da converção dos valores em hexadecimal para binário, mostrando juntamente os bits mais significativos e os menos sigficativos.
 
 
 <table style="text-align: center; border-collapse: collapse; width: 30%; border: 1px solid white;">
