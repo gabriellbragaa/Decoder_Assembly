@@ -14,10 +14,7 @@ decoder_arm_assembly
 
 This assignment consists of implementing an assembly program that decodes a memory map into its corresponding Thumb code.
 
-The decoder must receive a memory map as input and return a text file containing the executable code.
-
-In addition to the decoded result in hexadecimal, the output should also include the conversion of the hexadecimal values into binary,
-clearly showing both the most significant bits and the least significant bits.
+The decoder must receive a memory map as input and return a text file containing the executable code. In addition to the decoded result in hexadecimal, the output should also include the conversion of the hexadecimal values into binary, clearly showing both the most significant bits and the least significant bits.
 
     
 <table style="text-align: center; border-collapse: collapse; width: 30%; border: 1px solid white;">
