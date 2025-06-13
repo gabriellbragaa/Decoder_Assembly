@@ -7,7 +7,6 @@
  1. O decodificador deverá receber como entrada um mapa de memória e retornar um arquivo de texto contendo o código a ser executado.
  2.  A saída ira ser gerado além da decodificação resultante em hexadecimal, os valores da converção dos valores em hexadecimal para binário, mostrando juntamente os bits mais significativos e os menos sigficativos.
     
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Architecture II
 decoder_arm_assembly
