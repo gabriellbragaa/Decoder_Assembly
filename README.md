@@ -6,16 +6,18 @@
  
  1. O decodificador deverá receber como entrada um mapa de memória e retornar um arquivo de texto contendo o código a ser executado.
  2.  A saída ira ser gerado além da decodificação resultante em hexadecimal, os valores da converção dos valores em hexadecimal para binário, mostrando juntamente os bits mais significativos e os menos sigficativos.
-    
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Architecture II
 decoder_arm_assembly
 
 This assignment consists of implementing an assembly program that decodes a memory map into its corresponding Thumb code.
 
-    The decoder must receive a memory map as input and return a text file containing the executable code.
+The decoder must receive a memory map as input and return a text file containing the executable code.
 
-    In addition to the decoded result in hexadecimal, the output should also include the conversion of the hexadecimal values into binary, clearly showing both the most significant bits and the least significant bits.
+In addition to the decoded result in hexadecimal, the output should also include the conversion of the hexadecimal values into binary,
+clearly showing both the most significant bits and the least significant bits.
 
     
 <table style="text-align: center; border-collapse: collapse; width: 30%; border: 1px solid white;">
